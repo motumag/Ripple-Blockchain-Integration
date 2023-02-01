@@ -1,4 +1,5 @@
 ## Ripple Development
+
 Ripple blockchain crypto asset management solutions are faster, more transparent, and more cost-effective than traditional financial services. It is getting popular day by day. Customers use these solutions to source crypto, facilitate instant payments, empower their treasury, engage new audiences, lower capital requirements, and drive new revenue.
 
 xrpl or XRP Ledger: A Scalable, Sustainable Blockchain.
@@ -6,6 +7,7 @@ The XRP Ledger (XRPL) is a decentralized, public blockchain led by a global deve
 
 You can perform all kinds of ripple operations with this xrpl library. In this project we have used xrpl javascript library. <br>
 You can install xrpl using npm:
+
 ```
 npm install xrpl
 ```
@@ -38,11 +40,13 @@ npm test
 ```
 
 # Building Docker image
+
 ```bash
 ./build_docker_image.sh
 ```
 
 # Swagger UI URL
+
 ```
-/ripple-integration/apidocs
+/ripple-integration/motumadocs
 ```
