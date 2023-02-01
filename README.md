@@ -2,9 +2,6 @@
 
 Ripple blockchain crypto asset management solutions are faster, more transparent, and more cost-effective than traditional financial services. It is getting popular day by day. Customers use these solutions to source crypto, facilitate instant payments, empower their treasury, engage new audiences, lower capital requirements, and drive new revenue.
 
-xrpl or XRP Ledger: A Scalable, Sustainable Blockchain.
-The XRP Ledger (XRPL) is a decentralized, public blockchain led by a global developer community. It’s fast, energy efficient, and reliable. With ease of development, low transaction costs, and a knowledgeable community, it provides developers with a strong open-source foundation for executing on the most demanding projects—without hurting the environment.
-
 You can perform all kinds of ripple operations with this xrpl library. In this project we have used xrpl javascript library. <br>
 You can install xrpl using npm:
 
