@@ -1,0 +1,11 @@
+{
+  "definition": {
+    "openapi": "3.0.0",
+    "info": {
+      "title": "Ripple Integration  by Motuma Gishu",
+      "version": "1.1.2",
+      "description": "Ripple Integration using xrpl library with Nodejs"
+    }
+  },
+  "apis": ["./app/rest/*.js"]
+}
